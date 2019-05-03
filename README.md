@@ -1,0 +1,2 @@
+# cekpos
+cek posisi
